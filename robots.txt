@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://zaripusiseu.pages.dev/sitemap.xml
